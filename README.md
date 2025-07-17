@@ -28,6 +28,7 @@ A simple yet functional calculator app built using React.js!
 
 ## 🖼️ Screenshot
 
-![Calculator App Screenshot](./screenshot.png)
+![Calculator App Screenshot](<img width="406" height="563" alt="image" src="https://github.com/user-attachments/assets/4012ca7f-fa04-4d9e-be9d-5f3b7c9ddab2" />
+)
 
 👉 Try it out and feel free to share feedback!
